@@ -1,8 +1,7 @@
 # Relation Extraction Using Word2vec
 
-This library was created as implementation of a similar Pikuliack method 
-for semantic relationship extraction. The goal is to take small set of 
-exemplary pairs defining semantic relation and expand it with new pairs.
+This library was created as implementation for semantic relationship extraction. 
+The goal is to take small set of exemplary pairs defining semantic relation and expand it with new pairs.
 
 ## Installation
 
